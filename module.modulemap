@@ -1,0 +1,5 @@
+module Event [system] {
+    header "include/libevent-swift.h"
+    link "event"
+    export *
+}
